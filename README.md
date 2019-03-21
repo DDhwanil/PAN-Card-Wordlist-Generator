@@ -6,6 +6,3 @@ Generate your PAN card wordlist using Python
 For Linux: Python PAN_Wordlist.py
 
 For Windows: py -2 PAN_Wordlist.py
-            Or Python PAN_Wordlist.py
-            
-            
